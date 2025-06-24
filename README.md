@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyesh Shinde!
 
-<!--
-**Shreyeshshinde/Shreyeshshinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Computer Science (AI/ML) student  
+💻 Working on ML, Deep Learning, and Full Stack projects  
+🚀 Currently building: Caption The Image API, Doctor Recommendation System
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Python | Java | C++ | JavaScript
+- PyTorch | TensorFlow | Hugging Face
+- Docker | FastAPI | REST API
+- Git | GitHub Actions | CI/CD
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/shreyesh-shinde-897450290/)
+- [Portfolio](https://yourportfolio.com)
 -->

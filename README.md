@@ -5,11 +5,11 @@
 ## 🛠️ Tech Stack
 
 🚀 Skills & Technologies
-Machine Learning & Deep Learning: PyTorch, TensorFlow
-Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy
-Large Language Models (LLMs): LangChain
-Databases: MySQL, Firebase 
-Other: Docker, Streamlit, Plotly, Pandas Profiling
+Machine Learning & Deep Learning: PyTorch, TensorFlow |
+Natural Language Processing (NLP): Hugging Face Transformers, NLTK |
+Large Language Models (LLMs): LangChain, Langgraph |
+Databases: MySQL, Firebase |
+Other: Docker, Streamlit, Plotly, Pandas Profiling |
 
 
 ## 📫 Let's Connect

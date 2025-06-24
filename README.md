@@ -2,17 +2,18 @@
 
 🎯 Computer Science (AI/ML) student  
 💻 Working on ML, Deep Learning, and Full Stack projects  
-🚀 Currently building: Caption The Image API, Doctor Recommendation System
-
 ## 🛠️ Tech Stack
 
-- Python | Java | C++ | JavaScript
-- PyTorch | TensorFlow | Hugging Face
-- Docker | FastAPI | REST API
-- Git | GitHub Actions | CI/CD
+🚀 Skills & Technologies
+Machine Learning & Deep Learning: PyTorch, TensorFlow
+Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy
+Large Language Models (LLMs): LangChain
+Databases: MySQL, Firebase 
+Other: Docker, Streamlit, Plotly, Pandas Profiling
+
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shreyesh-shinde-897450290/)
 - [Portfolio](https://yourportfolio.com)
--->
+

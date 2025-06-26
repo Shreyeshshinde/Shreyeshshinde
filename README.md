@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyesh Shinde!
 
 🎯 Computer Science (AI/ML) student  
-💻 Working on ML, Deep Learning, and Full Stack projects  
+💻 Working on ML, Deep Learning, RAG and Full Stack projects  
 ## 🛠️ Tech Stack
 
 🚀 Skills & Technologies
